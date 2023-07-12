@@ -1,0 +1,23 @@
+.part1{
+    height: 200px;
+    background-color: rgb(119, 100, 100);
+    color: aliceblue;
+}
+#name{
+    color: aliceblue;
+}
+.part2{
+    height: fit-content;
+    background-color:blueviolet;
+    color: aliceblue;
+}
+.part3{
+    height: max-content;
+    background-color: royalblue;
+    color: aliceblue;
+}
+.part4{
+    height: fit-content;
+    background-color:red;
+    color: aliceblue;
+}
